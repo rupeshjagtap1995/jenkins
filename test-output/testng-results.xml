@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T13:30:54 IST" name="Suite" finished-at="2022-09-18T13:30:54 IST" duration-ms="103">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T13:30:54 IST" name="Test" finished-at="2022-09-18T13:30:54 IST" duration-ms="103">
+      <class name="abc.Testcase2">
+        <test-method signature="testcase2()[pri:0, instance:abc.Testcase2@5acf93bb]" started-at="2022-09-18T13:30:54 IST" name="testcase2" finished-at="2022-09-18T13:30:54 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- abc.Testcase2 -->
+      <class name="abc.Testcase1">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:abc.Testcase1@51e69659]" started-at="2022-09-18T13:30:54 IST" name="browserOpen" finished-at="2022-09-18T13:30:54 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="testcase1()[pri:0, instance:abc.Testcase1@51e69659]" started-at="2022-09-18T13:30:54 IST" name="testcase1" finished-at="2022-09-18T13:30:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="closed()[pri:0, instance:abc.Testcase1@51e69659]" started-at="2022-09-18T13:30:54 IST" name="closed" finished-at="2022-09-18T13:30:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closed -->
+      </class> <!-- abc.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
